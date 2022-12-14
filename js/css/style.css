@@ -1,0 +1,14 @@
+/* We can  css 3 way.There are 
+1.Inline css 
+2.Internal Css
+3.External Css
+
+*/
+
+h1{
+    color:tomato;
+}
+p{
+    background-color: black;
+    color:white;
+}
